@@ -1,0 +1,8 @@
+flask
+flask-cors
+python-dotenv
+langchain
+langchain-google-genai=
+langchain-core
+langchain-neo4j
+neo4j
